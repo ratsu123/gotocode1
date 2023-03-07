@@ -1,0 +1,27 @@
+[
+    {
+        "image": "./src/assets/image/users.17584f0.svg",
+        "count": "300",
+        "title": "Студентов",
+        "id": "1"
+    },
+    {
+        "image": "./src/assets/image/company_settings.78e79ff.svg",
+        "count": "15",
+        "title": "Человек в команде",
+        "id": "2"
+    },
+    {
+        "image": "./src/assets/image/student.b3030d2.svg",
+        "count": "50",
+        "title": "Успешных выпускников",
+        "id": "3"
+    },
+    {
+        "image": "./src/assets/image/geo.svg",
+        "count": "50 гб",
+        "title": "Учебный материалов",
+        "id": "4"
+    }
+
+]
